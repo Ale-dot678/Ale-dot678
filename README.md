@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ale-dot678
+- 👋 Hi, I’m @AndreaAlessiaToma
 - 👀 I’m interested in data analysis and machine learning techniques
 - 🌱 I’m currently learning Phython,SQL
 - 💞️ I’m looking to collaborate on ...
