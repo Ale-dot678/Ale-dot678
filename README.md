@@ -6,7 +6,7 @@ My background in statistics gives me a solid grounding in probability, inference
 
 ### Education
 - **MSc in Artificial Intelligence**, University of Bologna (2025 – present)
-- **BSc in Statistical Sciences**, University of Bologna (2022 – 2025), 110/110 cum laude
+- **BSc in Statistical Sciences**, University of Bologna (2022 – 2025)
 
 ### Projects
 - **[Predictive Maintenance: Clustering + Failure Classification](https://github.com/Ale-dot678/predictive_maintenance_ml-)**
