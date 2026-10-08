@@ -9,6 +9,8 @@ My background in statistics gives me a solid grounding in probability, inference
 - **BSc in Statistical Sciences**, University of Bologna (2022 – 2025), 110/110 cum laude
 
 ### Projects
+- **[Predictive Maintenance: Clustering + Failure Classification](https://github.com/Ale-dot678/predictive_maintenance_ml-)**
+  End-to-end pipeline on industrial sensor data: KMeans clustering discovers operating regimes, used as a feature for a Random Forest that flags machine failure (ROC-AUC 0.97) despite a 3.4% failure rate. *scikit-learn, pandas*
 - **[Jigsaw Reconstruction with Transformers](https://github.com/Ale-dot678/jigsaw-reconstruction-transformers)**
   End-to-end network that reconstructs an image from 9 shuffled, border-eroded patches, combining a siamese CNN encoder, a Transformer and attention-based patch placement. Test MAE 0.042 vs a 0.18 baseline. *TensorFlow/Keras*
 - **[Coin Recognition and Aircraft Classification](https://github.com/Ale-dot678/ipcv-coin-aircraft-classification)**
