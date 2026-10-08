@@ -11,6 +11,8 @@ My background in statistics gives me a solid grounding in probability, inference
 ### Projects
 - **[Jigsaw Reconstruction with Transformers](https://github.com/Ale-dot678/jigsaw-reconstruction-transformers)**
   End-to-end network that reconstructs an image from 9 shuffled, border-eroded patches, combining a siamese CNN encoder, a Transformer and attention-based patch placement. Test MAE 0.042 vs a 0.18 baseline. *TensorFlow/Keras*
+- **[Coin Recognition and Aircraft Classification](https://github.com/Ale-dot678/ipcv-coin-aircraft-classification)**
+  Team project (3 people): classical pipeline for euro coin detection and counting (Hough, SIFT, RANSAC), and fine-grained classification of 100 aircraft variants with a custom CNN and a fine-tuned ResNet-18 (79.5% test accuracy). *PyTorch, OpenCV*
 
 ### Skills
 - **Programming:** Python, R, Stata
